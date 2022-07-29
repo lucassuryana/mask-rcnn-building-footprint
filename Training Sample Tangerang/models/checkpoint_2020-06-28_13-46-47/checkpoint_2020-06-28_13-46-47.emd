@@ -1,0 +1,30 @@
+{
+    "ModelFile": "checkpoint_2020-06-28_13-46-47.pth",
+    "ImageHeight": 64,
+    "ImageWidth": 64,
+    "ModelParameters": {
+        "backbone": "resnet50"
+    },
+    "LearningRate": "slice(1.0964781961431852e-05, 0.00010964781961431851, None)",
+    "ModelName": "MaskRCNN",
+    "resize_to": null,
+    "Framework": "arcgis.learn.models._inferencing",
+    "ModelConfiguration": "_maskrcnn_inferencing",
+    "InferenceFunction": "ArcGISInstanceDetector.py",
+    "ExtractBands": [
+        0,
+        1,
+        2
+    ],
+    "Classes": [
+        {
+            "Value": 1,
+            "Name": "1",
+            "Color": [
+                144,
+                73,
+                241
+            ]
+        }
+    ]
+}

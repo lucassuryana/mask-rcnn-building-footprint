@@ -1,0 +1,43 @@
+{
+  "Version" : 1,
+  "NumBands" : 3,
+  "TileSizeX" : 256,
+  "TileSizeY" : 256,
+  "NumClasses" : 1,
+  "NumTiles" : 107,
+  "OutputFeatures" : true,
+  "MetaDataMode" : "RCNN_Masks",
+  "Classes" : [
+    {
+      "ClassValue" : 1,
+      "ClassName" : "1"
+    }
+  ],
+  "FeatureStats" : {
+    "NumClasses" : 1,
+    "NumImagesTotal" : 107,
+    "NumFeaturesTotal" : 1750,
+    "NumImagesPerClass" : [
+      107
+    ],
+    "NumFeaturesPerClass" : [
+      1750
+    ],
+    "NumFeaturesPerImage" : {
+      "Min" : 1,
+      "Max" : 43,
+      "Mean" : 16.355140186915889,
+      "Sum" : 1750,
+      "Count" : 107
+    },
+    "FeatureAreaPerClass" : [
+      {
+        "Min" : 6.0549425459306477e-05,
+        "Max" : 708.28684389515388,
+        "Mean" : 66.103606614870387,
+        "Sum" : 115681.31157602319,
+        "Count" : 1750
+      }
+    ]
+  }
+}
