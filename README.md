@@ -4,7 +4,7 @@ Jupyter Notebook code to detect building footprint
 Steps to run the code:
 1. Download the repository
 
-2. Download 'images.zip' under Additional files (below Releases, see the images below)
+2. Download 'images.zip' under Additional files (below Releases, see the images below). Files are separated because the size is > 25 mb (somehow I cannot upload it directly to git repo)
 <img width="1385" alt="image" src="https://user-images.githubusercontent.com/47362115/181803611-7758abf2-de4f-4320-97bb-ea571dff44ab.png">
 <img width="1236" alt="image" src="https://user-images.githubusercontent.com/47362115/181804397-50372a2c-a44a-4119-828a-8680648bc748.png">
 
